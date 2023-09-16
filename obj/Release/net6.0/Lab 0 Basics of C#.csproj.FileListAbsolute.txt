@@ -1,0 +1,4 @@
+C:\Users\joshu\OneDrive\Desktop\Fall 2023\Lab 1 Creating Classes\Lab 0 Basics of C#\obj\Release\net6.0\Lab 0 Basics of C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\Fall 2023\Lab 1 Creating Classes\Lab 0 Basics of C#\obj\Release\net6.0\Lab 0 Basics of C#.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Fall 2023\Lab 1 Creating Classes\Lab 0 Basics of C#\obj\Release\net6.0\Lab 0 Basics of C#.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\Fall 2023\Lab 1 Creating Classes\Lab 0 Basics of C#\obj\Release\net6.0\Lab 0 Basics of C#.csproj.CoreCompileInputs.cache
